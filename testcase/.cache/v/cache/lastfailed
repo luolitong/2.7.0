@@ -1,0 +1,9 @@
+{
+  "test_login.py::Test_panda_login::test_agreement": true,
+  "test_login.py::Test_panda_login::test_login": true,
+  "test_login.py::Test_panda_login::test_loginag": true,
+  "test_login.py::Test_panda_login::test_logincode": true,
+  "test_login.py::Test_panda_login::test_loginerr": true,
+  "test_login.py::Test_panda_login::test_loginph": true,
+  "test_login.py::Test_panda_login::test_loginshort": true
+}

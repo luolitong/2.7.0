@@ -1,0 +1,82 @@
+[mobile]
+#devicename = HMKNW17322008976
+#platformversion = 7.0
+devicename=98895a314f4e505252
+platformversion=8.0
+tel = 13678025855
+nickname = 1234
+nktest = 1234
+email = 445566@163.com
+emtest = 445566@163.com
+photo = com.huawei.camera:id/shutter_button
+photoreview = com.huawei.camera:id/btn_review_confirm
+click = com.panda.usecar:id/slide_bar
+
+zuo = 180
+shang = 500
+you = 180
+xia = 500
+
+zuo1 = 700
+shang1 = 500
+you1 = 800
+xia1 = 500
+
+zuo2 = 300
+shang2 = 800
+you2 = 300
+xia2 = 800
+
+[button]
+侧边栏 = id=com.panda.usecar:id/slide_bar
+登录头像 = id=com.panda.usecar:id/iv_head
+侧边栏快速登录 = id=com.panda.usecar:id/tv_user_name
+关闭登录 = id=com.panda.usecar:id/iv_close
+账号栏 = id=com.panda.usecar:id/et_phone
+清除账号 = id=com.panda.usecar:id/iv_clear
+输入验证码 = id=com.panda.usecar:id/et_verification
+获取验证码 = id=com.panda.usecar:id/tv_checkcode
+登录 = id=com.panda.usecar:id/bt_login
+用户协议 = id=com.panda.usecar:id/iv_agreement
+查看用户协议 = id=com.panda.usecar:id/tv_agreement_right
+查看隐私政策 = id=com.panda.usecar:id/tv_privacy
+返回 = id=com.panda.usecar:id/back
+通知消息 = id=com.panda.usecar:id/iv_message
+首页客服 = id=com.panda.usecar:id/iv_service
+立即用车 = id=com.panda.usecar:id/use_car
+用户中心 = id=com.panda.usecar:id/iv_person
+主页快速登录 = id=com.panda.usecar:id/bt_login
+#-------------侧边栏元素-------------------
+盼达竹园 = id=com.panda.usecar:id/iv_bamboo
+行程 = id=com.panda.usecar:id/ll_way
+钱包 = id=com.panda.usecar:id/ll_wallet
+违章 = id=com.panda.usecar:id/ll_peccancy
+客服 = id=com.panda.usecar:id/ll_help
+奖励 = id=com.panda.usecar:id/ll_invitate
+#-------------侧边栏元素-------------------
+完成拍照 = id=com.panda.usecar:id/btn_done
+昵称 = id=com.panda.usecar:id/fl_nick_name
+保存昵称 = id=com.panda.usecar:id/tv_save
+昵称文本框 = id=com.panda.usecar:id/et_name
+昵称展示 = id=com.panda.usecar:id/tv_nick_name
+邮箱 = id=com.panda.usecar:id/fl_mail
+邮箱展示 = id= com.panda.usecar:id/tv_email
+#----------------认证元素------------------
+认证 = id=com.panda.usecar:id/fl_attestation
+认证状态 = id=com.panda.usecar:id/tv_prove
+身份证正面 = id =com.panda.usecar:id/iv_up
+身份证背面 = id =com.panda.usecar:id/iv_back
+身份证拍照 = id =com.panda.usecar:id/takepicture
+使用照片 = id=com.panda.usecar:id/use_photo
+身份证下一步 = id=com.panda.usecar:id/bt_next
+提交认证 = id=com.panda.usecar:id/bt_next
+#----------------认证元素------------------
+#-------------三星S8----------------------
+相机确定 = id=com.sec.android.app.camera:id/okay
+#-------------三星S8----------------------
+#日志base-log
+#方法base-base
+#5422097f 6.0 oppo
+#9c8f97aa 5.0 s5
+#HMKNW17322008976 7.0 huawei
+#zuo45
